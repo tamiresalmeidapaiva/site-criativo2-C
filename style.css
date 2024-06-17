@@ -1,10 +1,15 @@
-body{
+.cabecalho{
     backgrond-color: #424E61;
 color: white;
-}
+display: flex;
+justify-content: space-around;
+align-items: center; 
+padding: 24px;
  
 cabecalho-imagem{
-    width: 20%;
-}
+    .CABECALHO-IMAGEM
+  width: 20%;
 
 
+.Cabecalho-listra-listra
+display: inset-block;
