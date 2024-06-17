@@ -1,3 +1,8 @@
+{
+
+
+
+}
 .cabecalho{
     backgrond-color: #424E61;
 color: white;
@@ -13,3 +18,5 @@ cabecalho-imagem{
 
 .Cabecalho-listra-listra
 display: inset-block;
+margin: 0 16px;
+font-size: 24px;
