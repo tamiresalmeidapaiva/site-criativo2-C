@@ -12,11 +12,12 @@ align-items: center;
 padding: 24px;
  }
 
-    .CABECcalho-imagem{
+    .CABECALHO-IMAGEM{
   width: 20%;
+}
 
-
-.Cabecalho-listra-listra
-display: inset-block;
+.Cabecalho-lista-lista{
+display: inline-block;
 margin: 0 16px;
 font-size: 24px;
+}
