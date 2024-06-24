@@ -1,18 +1,18 @@
-{
-
-
+*{
+margin: 0;
+padding: 0;
 
 }
 .cabecalho{
-    backgrond-color: #424E61;
+   background-color: #424E61;
 color: white;
 display: flex;
 justify-content: space-around;
 align-items: center; 
 padding: 24px;
- 
-cabecalho-imagem{
-    .CABECALHO-IMAGEM
+ }
+
+    .CABECcalho-imagem{
   width: 20%;
 
 
